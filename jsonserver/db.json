@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "my stream",
+      "id": 1
+    },
+    {
+      "title": "other stream",
+      "description": "other stream",
+      "id": 2
+    },
+    {
+      "title": "This is new stream",
+      "description": "This is new stream2",
+      "id": 3
+    },
+    {
+      "title": "my react",
+      "description": "my react2",
+      "userId": "109212566488634433373",
+      "id": 4
+    }
+  ]
+}
